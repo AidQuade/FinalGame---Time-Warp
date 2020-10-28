@@ -1,1 +1,4 @@
 # FinalGame---Time-Warp
+  The core mechanics of our game revolve around the ability to manipulate time and change the level while exploring it. The time mechanic would also be balanced with the destruction of the level the more often you use it and possibly shutting off extra paths and secrets for the player to discover. There will be puzzles and encounters that enter irreversible states causing the player to utilize their ability to manipulate time. The game will be centered on the levels being large and explorable with interaction between the player and their environment. So far we have the ideas for physics based puzzles, secret areas, multiple choices for paths and exploration, level altering time manipulation. We still need to focus on the overall theme and aesthetics of the game, if there will be any combat, and how exactly the player will be able to access the time abilities. 
+  
+  In this group is Perry Owens and Ali A.
